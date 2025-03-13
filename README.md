@@ -62,5 +62,5 @@ Fique à vontade para contribuir com melhorias no projeto. Basta seguir os passo
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-Desenvolvido por [Seu Nome].
+Desenvolvido por [Hadockz].
 
